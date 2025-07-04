@@ -1,11 +1,8 @@
-## Hi there 👋
-
 ### 👋 Hi, I'm RK Singh
-**Data Analyst | SQL | Python | Excel | Power BI | Tableau**
+Hi, I'm Rakesh Singh — a Data Analyst with 8+ years in infrastructure and public utilities. I specialize in using Python, SQL, Power BI, and Tableau to uncover actionable insights that drive cost savings and process improvements.
 
-🔍 Turning messy data into meaningful insights  
-📊 Built dashboards that track 50M+ liters of water saved  
-📁 Check out my latest eCommerce and infrastructure projects below!  
+🔧 Tools I use: Python, Pandas, SQL, Power BI, Excel, Tableau  
+📈 Projects include: Sales Analytics | Water Supply Optimization | Infra Budget Analysis  
 
 📫 Reach me:  
 [LinkedIn](https://www.linkedin.com/in/rkthedataanalyst/) | [Portfolio](https://rkthedataanalyst.blogspot.com/) | 📧 rkthedataanalyst@gmail.com
